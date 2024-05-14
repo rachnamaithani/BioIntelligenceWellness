@@ -440,7 +440,7 @@ ul{
 	position: relative;
 }
 .IPC-box1{
-	position:relative;
+	positon:relative;
 }
 .IPC-box11{
 	width: 60%;
@@ -486,6 +486,9 @@ ul{
 	right: 5px;
 	float: right;
 	}
+.IPC-view:hover .ur-goal-box{
+	width: 100%;
+}
 .learn:hover,.view:hover{
 	color: #476136;
 	cursor: pointer;
@@ -632,7 +635,7 @@ ul{
 	padding: 0px 5px;
 }
 .boxx1{
-	position:relative;
+	positon:relative;
 	font-family:Verdana,Tahoma,Helvetica;
 }		
 .small_font{
@@ -649,9 +652,9 @@ ul{
 	cursor: pointer;
 	color: #64a936;
 	border-bottom:2px solid #64a936;
-	padding:5px;
+	padding:5px;s
 }
-.learn:hover , .view:hover{
+.learn:hover,.view:hover{
 	color: #476136;
 	cursor: pointer;
 	}
