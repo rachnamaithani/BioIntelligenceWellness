@@ -1,4 +1,6 @@
 # BioIntelligenceWellness
+This is pure HTML and CSS used Website 
+I have created this website by taking reference from BioIntelligenceWellness Website.
 ![image](https://github.com/rachnamaithani/BioIntelligenceWellness/assets/97659503/cea54e71-11d8-4a77-86be-657e54ed76f5)
 ![image](https://github.com/rachnamaithani/BioIntelligenceWellness/assets/97659503/03e8d701-0b26-491d-bb91-753488920fde)
 ![image](https://github.com/rachnamaithani/BioIntelligenceWellness/assets/97659503/b7dad321-e409-4a7c-940d-fbe8cc0a5d3b)
